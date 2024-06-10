@@ -1,6 +1,8 @@
 # Bread_Capital
 
-# Daily Performance Comparison
+Bread Capital is an intraday trading algorithm executed on Nasdaq-100 utilizing a combination of intraday market volatility and statistics on index composition.
+
+## Daily Performance Comparison
 
 This repository contains three Python scripts that comparing the performance of Bread Capital's trading strategy against a benchmark (Nasdaq-100). 
 
