@@ -10,7 +10,8 @@ This repository contains three Python scripts that comparing the performance of 
 
 Each script reads performance data from a CSV file then plots plots cumulative log returns of Bread Capital's strategy, a 3x leveraged version of the strategy, and the Nasdaq-100 benchmark
 
-![image](https://github.com/jimmmmmmmmmmmy/Bread_Capital/assets/143036559/b31713cf-3761-49d7-9d7a-933f59642d6b)
+<img src="https://github.com/jimmmmmmmmmmmy/Bread_Capital/assets/143036559/b31713cf-3761-49d7-9d7a-933f59642d6b" width="1200">
 
-![image](https://github.com/jimmmmmmmmmmmy/Bread_Capital/assets/143036559/7510be20-bff8-49ea-b4a4-0ce922afdc2d)
-![Screenshot 2024-06-23 at 1 14 08 PM](https://github.com/jimmmmmmmmmmmy/Bread_Capital/assets/143036559/28594aa6-d47f-4c3e-95af-51f61cd0b7ba)
+<img src="https://github.com/jimmmmmmmmmmmy/Bread_Capital/assets/143036559/7510be20-bff8-49ea-b4a4-0ce922afdc2d" width="1200">
+
+<img src="https://github.com/jimmmmmmmmmmmy/Bread_Capital/assets/143036559/28594aa6-d47f-4c3e-95af-51f61cd0b7ba" width="1200">
